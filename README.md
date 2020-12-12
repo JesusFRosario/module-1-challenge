@@ -24,11 +24,12 @@ THEN I find a concise, descriptive title
 
 
 
-link to site:
+# link to site:
+https://jesusfrosario.github.io/module-1-challenge/
 
 
-Github Link:
-https://github.com/JesusFRosario/module-1-challenge/blob/main/Develop/index.html
+# Github Link:
+https://github.com/JesusFRosario/module-1-challenge
 
 Screenshot:
 Screen Shot 2020-12-12 at 1.00.53 PM.png
